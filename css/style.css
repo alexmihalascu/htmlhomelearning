@@ -1,0 +1,20 @@
+html{
+    font-size: 22px;
+}
+
+body {
+    background-color: #333;
+    color: whitesmoke;
+
+}
+
+h1.title{
+    color: gold;
+    text-align: center;
+}
+
+h1.typeofheadings{
+    color:bisque;
+    text-align: center;
+
+}
