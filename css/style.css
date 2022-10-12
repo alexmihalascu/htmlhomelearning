@@ -18,3 +18,7 @@ h1.typeofheadings{
     text-align: center;
 
 }
+
+table,tr ,th ,td {
+    border: 1px solid;
+}
